@@ -1,2 +1,2 @@
 # html
-this is the html praxtice repo
+this is the html practice repo
